@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yuva-karthik
-- 👀 I’m interested in building AI 
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in exploring new stuff 
+- 🌱 I’m currently learning new technologies
 - 📫 How to reach me yuvakarthik2508@gmail.com
 <!---
 yuva-karthik/yuva-karthik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
